@@ -8,7 +8,7 @@ Sie benötigen
 
 # Download 
 
-[Release v1 16.0.2023](https://github.com/shoepping-merchants-tools/check-settlement/releases/1/rechnesumme.zip)
+[Release v1 16.0.2023](https://github.com/shoepping-merchants-tools/check-settlement/releases/1/rechnesummen.zip)
 
 # Benutzung
 
