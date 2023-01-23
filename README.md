@@ -20,3 +20,5 @@ Sie benötigen
 ![Screenshot  Klicken Sie mit der rechten Maustaste auf *rechnesumme.ps1* und wählen Sie *mit PowerShell ausführen*](./Powershell_ausfuehren.png "Powershell ausführen")
 
 Hinweis: Das script erzeugt eine Datei allebuchungen.csv. Diese enthält alle Buchungszeilen von allen CSVs in diesem Verzeichniss. Sie können auch diese Datei nutzen um in anderen Programmen wie. z.B. Excel alle Buchungen auszuwerten.
+
+![So sieht das Ergebnis aus wenn das Script läuft](./beispiel-durchlauf.png "Beispiel")
