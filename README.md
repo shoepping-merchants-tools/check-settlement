@@ -1,5 +1,5 @@
 # check-settlement
-Kleines Script um Settlement Auszahlungen über mehrere Wochen hinweg nachzurechnen
+Kleines Script, welches die Settlement Auszahlungen über mehrere Wochen bzw. Kontoauszüge hinweg, nachrechnet/summiert.
 
 # Installation
 Sie benötigen
@@ -12,7 +12,9 @@ Sie benötigen
 
 # Benutzung
 
-* Kopieren Sie alle Settlement CSV Dateien die sie erhalten haben bzw. die Sie prüfen möchten in das Verzeichnis in dem auch *rechnesumme.ps1* und *csvq.exe* sind.
+* Legen Sie ein eigenes Verzeichnis für die Kontoauszüge / Settlementfiles an und legen dort *rechnesumme.ps1* und *csvq.exe* ab.
+* Kopieren Sie alle Settlement CSV Dateien, die Sie erhalten haben bzw. die Sie prüfen möchten in dieses Verzeichnis,  in dem auch *rechnesumme.ps1* und *csvq.exe* abgelegt wurde.
 * Öffnen Sie das Verzeichnis im Explorer
-* Klicken Sie mit der rechten Maustaste auf *rechnesumme.ps1* und wählen Sie *mit PowerShell ausführen*
-  
+* Klicken Sie mit der rechten Maustaste auf *rechnesumme.ps1* (1) und wählen Sie *mit PowerShell ausführen* (2)
+
+![Screenshot  Klicken Sie mit der rechten Maustaste auf *rechnesumme.ps1* und wählen Sie *mit PowerShell ausführen*](./Powershell_ausfuehren.png "Powershell ausführen")
